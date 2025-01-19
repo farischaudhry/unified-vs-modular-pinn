@@ -1,0 +1,82 @@
+(128, 64)
+
+Unified
+1.4969091353123076e-06
+{0.001: 14, 0.0001: 30, 1e-05: 58, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.2392, Average Layer-wise Correlation: -0.2884
+Average Component-wise Overlap: 0.1628, Average Component-wise Correlation: 0.3881
+
+1.2136911209381651e-06
+{0.001: 12, 0.0001: 36, 1e-05: 54, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.2096, Average Layer-wise Correlation: -0.3289
+Average Component-wise Overlap: 0.1477, Average Component-wise Correlation: 0.0855
+
+1.8617854493641062e-06
+{0.001: 16, 0.0001: 38, 1e-05: 99, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.2577, Average Layer-wise Correlation: -0.2741
+Average Component-wise Overlap: 0.1616, Average Component-wise Correlation: 0.2670
+
+8.612425403953239e-07
+{0.001: 27, 0.0001: 52, 1e-05: 83, 1e-06: 238, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.2702, Average Layer-wise Correlation: 0.0687
+Average Component-wise Overlap: 0.1724, Average Component-wise Correlation: 0.0940
+
+6.217264854058158e-07
+{0.001: 34, 0.0001: 63, 1e-05: 173, 1e-06: 278, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.2640, Average Layer-wise Correlation: -0.2891
+Average Component-wise Overlap: 0.1528, Average Component-wise Correlation: 0.3369
+
+Modular
+1.557534460516763e-06
+{0.001: 35, 0.0001: 52, 1e-05: 106, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.2944, Average Layer-wise Correlation: -0.0975
+Average Component-wise Overlap: 0.2921, Average Component-wise Correlation: -0.0409
+
+6.36448135082901e-07
+{0.001: 16, 0.0001: 40, 1e-05: 61, 1e-06: 156, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.3427, Average Layer-wise Correlation: 0.0484
+Average Component-wise Overlap: 0.3404, Average Component-wise Correlation: 0.0276
+
+3.0383978355530417e-06
+{0.001: 25, 0.0001: 48, 1e-05: 95, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.3562, Average Layer-wise Correlation: -0.0741
+Average Component-wise Overlap: 0.3130, Average Component-wise Correlation: -0.1728
+
+2.3060993044055067e-06
+{0.001: 9, 0.0001: 37, 1e-05: 79, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.3359, Average Layer-wise Correlation: 0.0913
+Average Component-wise Overlap: 0.3239, Average Component-wise Correlation: -0.0850
+
+1.4613040093536256e-06
+{0.001: 7, 0.0001: 33, 1e-05: 64, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.3134, Average Layer-wise Correlation: -0.1481
+Average Component-wise Overlap: 0.3265, Average Component-wise Correlation: -0.1042
+
+Scaled Modular
+3.2684497455193195e-06
+{0.001: 36, 0.0001: 67, 1e-05: 159, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.3339, Average Layer-wise Correlation: 0.2856
+Average Component-wise Overlap: 0.3764, Average Component-wise Correlation: 0.1947
+
+3.825415205938043e-06
+{0.001: 29, 0.0001: 49, 1e-05: 129, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.4319, Average Layer-wise Correlation: -0.1810
+Average Component-wise Overlap: 0.3808, Average Component-wise Correlation: -0.1785
+
+4.4182797864777967e-07
+{0.001: 14, 0.0001: 32, 1e-05: 53, 1e-06: 90, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.3981, Average Layer-wise Correlation: 0.0803
+Average Component-wise Overlap: 0.3901, Average Component-wise Correlation: -0.0379
+
+3.5649286473926622e-06
+{0.001: 20, 0.0001: 46, 1e-05: 202, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.3710, Average Layer-wise Correlation: 0.0207
+Average Component-wise Overlap: 0.3781, Average Component-wise Correlation: 0.1807
+
+1.235835270563257e-06
+{0.001: 7, 0.0001: 43, 1e-05: 67, 1e-06: None, 1e-07: None, 1e-08: None}
+Average Layer-wise Overlap: 0.3742, Average Layer-wise Correlation: 0.2252
+Average Component-wise Overlap: 0.3536, Average Component-wise Correlation: 0.1815
+
+Rel. Time
+1.72, 1.73, 1.69, 1.70, 1.78, 1.85
