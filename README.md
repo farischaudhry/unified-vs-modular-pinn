@@ -2,6 +2,8 @@
 
 This repository contains the implementation and experiments for comparing Unified, Modular, and Scaled Modular architectures in Physics-Informed Neural Networks (PINNs) for solving Partial Differential Equations (PDEs). The study focuses on understanding the trade-offs between these architectures in terms of convergence speed, final loss, neuron activation overlap, correlation, and interpretability.
 
+Code fully compatible with Semi Modular networks is on the 'semimodular' branch to avoid clutering the original.
+
 ## Project Overview
 
 This project investigates three neural network architectures applied to solving multi-component PDEs:
